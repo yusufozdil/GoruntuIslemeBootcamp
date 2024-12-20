@@ -48,3 +48,11 @@ Değerlendirme ve Olası Sebepler:
 	    •	Eğitim veri setinin çeşitliliği artırılabilir. Örneğin, farklı görüntü sınıflarına daha fazla örnek eklemek, modelin genelleme yeteneğini artırabilir.
 
 Sonuç olarak, modelin eğitimi ve manipülasyonlar belirli sonuçlar vermiştir, ancak genel doğruluk hala geliştirilebilir.
+
+
+İlgili veri setine kaggle üzerinden ulaşabilirsiniz:
+[Animals with Attributes 2](https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2)
+
+Proje arkadaşımın GitHub profili:
+[Reyyan İlci](https://github.com/reyyolimo)
+
