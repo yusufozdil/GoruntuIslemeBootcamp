@@ -56,3 +56,7 @@ Sonuç olarak, modelin eğitimi ve manipülasyonlar belirli sonuçlar vermiştir
 Proje arkadaşımın GitHub profili:
 [Reyyan İlci](https://github.com/reyyolimo)
 
+Projenin Kaggle Linki(Projeyi local bilgisayarımda yaptığım için Kaggle'da run'lanabilir bir versiyon bulunmamakta):
+
+[Görüntü İşleme Bootcamp](https://www.kaggle.com/code/yusufozdil/g-r-nt-lemebootcamp)
+
