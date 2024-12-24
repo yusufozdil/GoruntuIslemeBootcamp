@@ -54,7 +54,7 @@ Sonuç olarak, modelin eğitimi ve manipülasyonlar belirli sonuçlar vermiştir
 [Animals with Attributes 2](https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2)
 
 Proje arkadaşımın GitHub profili:
-[Reyyan İlci](https://github.com/reyyolimo)
+[Reyyan İlci](https://github.com/reyyanilci)
 
 Projenin Kaggle Linki(Projeyi local bilgisayarımızda yaptığıızm için Kaggle'da run'lanabilir bir versiyon bulunmamakta):
 
